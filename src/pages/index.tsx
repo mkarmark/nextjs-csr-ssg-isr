@@ -26,7 +26,6 @@ export default function HomePage() {
             <div className='flex flex-col items-center mt-4 space-y-2'>
               <CustomLink href='/render/csr'>CSR</CustomLink>
               <CustomLink href='/render/ssr'>SSR</CustomLink>
-              <CustomLink href='/render/ssg'>SSG</CustomLink>
               <CustomLink href='/render/isr'>ISR</CustomLink>
               <CustomLink href='/render/isr-20'>ISR 20s</CustomLink>
             </div>
